@@ -1,0 +1,8 @@
+{
+  "api_url": "https://api.domainlu.com",
+  "ws_url": "wss://api.domainlu.com/ws",
+  "maintenance": false,
+  "message": "",
+  "min_version": "1.0.0",
+  "update_url": ""
+}
