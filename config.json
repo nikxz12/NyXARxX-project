@@ -1,6 +1,6 @@
 {
-  "api_url": "https://api.domainlu.com",
-  "ws_url": "wss://api.domainlu.com/ws",
+  "api_url": "http://zexx-privateserver.duckdns.top:3334",
+  "ws_url": "wss://zexx-privateserver.duckdns.top:3334",
   "maintenance": false,
   "message": "",
   "min_version": "1.0.0",
