@@ -1,8 +1,3 @@
 {
-  "api_url": "http://zexx-privateserver.duckdns.top:3334",
-  "ws_url": "ws://zexx-privateserver.duckdns.top:3334",
-  "maintenance": false,
-  "message": "",
-  "min_version": "1.0.0",
-  "update_url": ""
+  "base_url": "http://zexx-privateserver.duckdns.top:3334"
 }
